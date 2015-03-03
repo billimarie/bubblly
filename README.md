@@ -13,7 +13,7 @@
 
 ### Story
 
-- currently developing storyline (see [storyline.md](https://github.com/billimarie/bubblly/blob/master/storyline.md))
+- currently developing storyline (see [storyline.md](https://github.com/billimarie/bubblly/blob/master/universe/storyline.md))
 
 ## License
 Code: [**MIT**](http://opensource.org/licenses/MIT)
