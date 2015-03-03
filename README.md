@@ -2,7 +2,7 @@
 
 # Bubbl.ly
 
-**Bubbl.ly** is a tactical RPG which makes **managing your Personal Finances fun**. This is a personal project to help me accomplish two things: get back into web development, & better understand capital, stocks, IRAs, budgeting :smile_cat:
+**Bubbl.ly** is a tactical RPG which makes **managing your Personal Finances fun**. This is a personal project to help me accomplish three long-term goals: get stronger at web development, experiment with game development, & better understand capital, stocks, IRAs, budgeting :smile_cat:
 
 ## Updates
 
