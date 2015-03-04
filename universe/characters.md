@@ -19,7 +19,9 @@ Bubbl is the MC's daemon, guide, and best friend. It's non-gendered. And it's de
 
 > - "But first, the basics! Create a bubbl like me. Bubbls are a way to organize your Monetary Goals. Some example bubbls include: *Pay Rent (on time). Save Part of Paychecks. Learn about IRAS.* It can be anything you want! In fact, I once met a guy named *Buy The Entire Freakin' World!* Hehehe.
 
-> - "My entire existence is dedicated to keeping you on track. I show off your stats. I create graphs and charts of your progress. I even archive your notes for future motivation! That means when you’re being financially productive, I’m happy! But when you’re not...I pop. Bubbls that remain inactive will expire, taking your hopes & dreams with it. Bubbls that persist will Level Up, receive Specialty Items, and get recognition in the elusive Glory Bubbl! The world is ours...puff, puff to the Illustrious Sphere!"
+> - "My entire existence is dedicated to keeping you on track. I show off your stats. I create graphs and charts of your progress. I even archive your notes for future motivation! That means when you’re being financially productive, I’m happy! But when you’re not...I pop. Bubbls that remain inactive will expire, taking your hopes & dreams for financial stability with it. Bubbls that survive, persist, and thrive will continuously Level Up, receive Specialty Items, and gain recognition in the elusive Glory Bubbl!"
+
+> - "Come! The world is ours: puff, puff&mdash;to the Illustrious Sphere!"
 
 [//]: # (This is a test comment)
 
