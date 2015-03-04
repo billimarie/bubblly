@@ -9,11 +9,18 @@
 ### Research
 
 - decided upon only using HTML & JavaScript
-  * HTML5 Canvas (PlayCanvas?), WebSockets, node.js
+  * HTML5 Canvas
+    *  PlayCanvas?
+  * WebSockets
+  * node.js
+  * ???
 
 ### Story
 
-- currently developing storyline (see [storyline.md](https://github.com/billimarie/bubblly/blob/master/universe/storyline.md))
+- developing universe
+  * [storyline](https://github.com/billimarie/bubblly/blob/master/universe/storyline.md)
+  * [characters](https://github.com/billimarie/bubblly/blob/master/universe/characters.md)
+  * [setting](https://github.com/billimarie/bubblly/blob/master/universe/setting.md)
 
 ## License
 Code: [**MIT**](http://opensource.org/licenses/MIT)
@@ -24,6 +31,13 @@ Refer to the [License](http://github.com/billimarie/bubblly/) file for more deta
 
 ## Contribute
 
-:heart_eyes_cat: If you'd like to help out with this project, feel free! You can reach me directly through [email](mailto:billi@bubbl.ly).
+If you'd like to help out with this project, feel free! You can reach me directly through [email](mailto:billi@bubbl.ly) :heart_eyes_cat:
 
 [logo]: http://bubbl.ly/img/bubblly-logo.png "Bubbl.ly Logo"
+
+## Attribution Credits
+(Placeholder: THANK YOU to the following Open Source contributions, which Bubbl.ly gratefully utilizes :two_hearts:)
+
+[//]: # (Project: [**Name Goes Here.**](link))
+[//]: # (Copyright Information Goes Here)
+[//]: # (Lincense and Link Go Here)
