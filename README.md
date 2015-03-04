@@ -2,9 +2,14 @@
 
 # Bubbl.ly
 
-**Bubbl.ly** is a tactical RPG which makes **managing your Personal Finances fun**. This is a personal project to help me accomplish three long-term goals: get stronger at web development, experiment with game development, & better understand capital, stocks, IRAs, budgeting :smile_cat:
+**Bubbl.ly** is a tactical RPG which makes **managing your Personal Finances fun**.
+
+This is a personal project to help me accomplish three long-term goals: get stronger at web development, experiment with game development, & better understand capital, stocks, IRAs, budgeting :smile_cat:
+
+As you can tell, the bubbl.ly repository is currently **story-oriented**. As the months go on, I'm sure it'll tide over towards actual code.
 
 ## Updates
+_as of March 3rd 2015_
 
 ### Research
 
@@ -20,7 +25,20 @@
 - developing universe
   * [storyline](https://github.com/billimarie/bubblly/blob/master/universe/storyline.md)
   * [characters](https://github.com/billimarie/bubblly/blob/master/universe/characters.md)
+    - MC
+    - bubbl
+    - Allies
+      * Checkings Knight
+      * Savings Archer
+      * Retirement Wizard
+    - Bosses
+      * Overdraft Buffoon
+      * Miss Milestones
+      * Dreaded Debt of Despair
   * [setting](https://github.com/billimarie/bubblly/blob/master/universe/setting.md)
+    - the Illustrious Sphere
+- list within wiki or just in a sub-folder?
+  * leaning towards wiki
 
 ## License
 Code: [**MIT**](http://opensource.org/licenses/MIT)
